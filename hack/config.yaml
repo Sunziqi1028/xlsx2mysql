@@ -1,0 +1,5 @@
+gfcli:
+  gen:
+    dao:
+      - link: "mysql:root:123456@tcp(49.235.244.9:3306)/fms"
+        #prefix: ""

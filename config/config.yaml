@@ -1,0 +1,4 @@
+database:
+  default:
+    type: "mysql"
+    link: "root:123456@tcp(49.235.244.9)/fms"
